@@ -42,7 +42,6 @@ If you have any web development projects or opportunities, please feel free to r
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tasnim-Hasan)
 ## My first project
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C8L-k4LG65w?autoplay=1&mute=1" frameborder="0" allowfullscreen></iframe>
+[![My first project](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=C8L-k4LG65w)
 
 This is the very first project that I have created for the Final Project of CS50 course.
