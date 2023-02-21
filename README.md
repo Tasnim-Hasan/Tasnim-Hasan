@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 
-I am Hadiul Hasan Tasnim and I am a newbie web developer. I have experience in HTML5, CSS3, JavaScript, and WordPress development, which I learned through various online courses and self-study. I started my web development journey with the CS50 course and have since then been passionate about creating responsive and visually appealing websites that provide a great user experience.
+I am Hadiul Hasan Tasnim , a web developer. I have experience in HTML5, CSS3, JavaScript, and WordPress development, which I learned through various online courses and self-study. I started my web development journey with the CS50 course and have since then been passionate about creating responsive and visually appealing websites that provide a great user experience.
 
 I enjoy working with modern technologies and design trends to create sleek and functional web pages. I am constantly looking for ways to improve my skills and stay up-to-date with the latest industry trends and best practices. My goal is to become a skilled and versatile web developer and contribute to the development of the web.
 
