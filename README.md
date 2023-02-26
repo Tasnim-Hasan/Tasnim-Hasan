@@ -27,7 +27,7 @@ If you have any web development projects or opportunities, please feel free to r
 ## Workplace
 
 - [![Fiverr](https://img.shields.io/badge/Fiverr-1dbf73?logo=fiverr&logoColor=white)](https://www.fiverr.com/tasnim_hasan?up_rollout=true)
-- [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)]([https://www.upwork.com/freelancers/~01672e3195d9571d06](https://www.upwork.com/freelancers/~01ea96f58ffe16a342))
+- [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ea96f58ffe16a342))
 ## 🌐 Socials:
 
 - [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/HadiulHasanTasnim)  
