@@ -21,7 +21,8 @@ If you have any web development projects or opportunities, please feel free to r
 - ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ##
-![CS50x](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/332468535_1332292204227192_4442671184504726875_n.jpg?stp=dst-jpg_p180x540&_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=oXhBpKTVjaQAX8OKQlf&_nc_ht=scontent.fdac99-1.fna&oh=00_AfBi1ycSo4ua-Tn5K63TUkn7KdvbcpeTIvUOhiSQau5L_g&oe=63F92107)
+![CS50x](https://user-images.githubusercontent.com/122684361/221413456-3654aa78-8654-40d9-a41f-6ea09bd0ac2c.png)
+
 
 ## Workplace
 
